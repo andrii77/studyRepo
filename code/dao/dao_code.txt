@@ -1,1 +1,2 @@
 dao code
+new interface
