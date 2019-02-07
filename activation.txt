@@ -9,3 +9,5 @@ This changes will be on master branch 3
 
 
 This should be fetched
+
+git fetch command check
