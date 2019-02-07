@@ -6,4 +6,4 @@ activate 0004
 
 This changes will be on master branch 2
 
-
+This should be fetched
