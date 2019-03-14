@@ -1,1 +1,10 @@
+<<<<<<< HEAD
 CEDWCEWCEWCEWCEW
+=======
+<<<<<<< HEAD
+HELLOW WORLD
+BABY))))))))
+=======
+from local master
+>>>>>>> 459b5961abc86d8c51ccf4dcf9483073d029ea26
+>>>>>>> parent of b53f635... commit a
