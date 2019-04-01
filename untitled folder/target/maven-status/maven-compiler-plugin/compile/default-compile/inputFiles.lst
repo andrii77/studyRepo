@@ -1,0 +1,10 @@
+/Users/administrator/Downloads/helloworld/src/main/java/com/study/helloworld/entity/Person.java
+/Users/administrator/Downloads/helloworld/src/main/java/com/study/helloworld/controller/MainController.java
+/Users/administrator/Downloads/helloworld/src/main/java/com/study/helloworld/projection/PersonProjection.java
+/Users/administrator/Downloads/helloworld/src/main/java/com/study/helloworld/repository/PersonRepo.java
+/Users/administrator/Downloads/helloworld/src/main/java/com/study/helloworld/annotation/Auth.java
+/Users/administrator/Downloads/helloworld/src/main/java/com/study/helloworld/HelloworldApplication.java
+/Users/administrator/Downloads/helloworld/src/main/java/com/study/helloworld/configuration/Swagger.java
+/Users/administrator/Downloads/helloworld/src/main/java/com/study/helloworld/aspect/SqsHandler.java
+/Users/administrator/Downloads/helloworld/src/main/java/com/study/helloworld/service/PersonService.java
+/Users/administrator/Downloads/helloworld/src/main/java/com/study/helloworld/service/AuthService.java
